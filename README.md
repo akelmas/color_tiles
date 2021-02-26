@@ -1,9 +1,6 @@
 # Color Tiles - 2D memory game
-## Project Description
 This is a game developed using PyGame.
 Basically, the player memorizes the hint and makes a move in a dedicated time.
-
-
 
 ## Dependencies/Pre-requisites
 * python >= 3.7.7
