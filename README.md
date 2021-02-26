@@ -9,10 +9,10 @@ Basically, the player memorizes the hint and makes a move in a dedicated time.
 * python >= 3.7.7
 
 * pip  _latest version is recommended_
-    **if pip is not installed, see https://pip.pypa.io/en/stable/installing/
+    If pip is not installed, see https://pip.pypa.io/en/stable/installing/
 
 * Pygame >= 2.0
-    **To install pygame using pip `python3 -m pip install -U pygame --user`
+    To install pygame using pip `python3 -m pip install -U pygame --user`
 
 
 ## Setup/Installation
